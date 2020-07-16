@@ -1,3 +1,6 @@
+# "I have a dream ..." - Luther King.
+
+## A passion, A Target, A Goal. 
 ### Front-End Developer
 
 #### Always studying, programming from time to time and living whenever it gives. 
