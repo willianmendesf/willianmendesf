@@ -1,5 +1,5 @@
 ### A passion, A Target, A Goal. "I have a dream..." - Luther King.
-#### Always studying, programming from time to time and living whenever it gives. 
+#### Always studying, programming from time to time and living when I can.
 ##### #Node, #Gulp, #ES6 #React #MongoDB
 ###### https://sourcerer.io/willianmendesf
 
