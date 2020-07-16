@@ -1,8 +1,4 @@
-# "I have a dream ..." - Luther King.
-
-## A passion, A Target, A Goal. 
-### Front-End Developer
-
+### A passion, A Target, A Goal. "I have a dream..." - Luther King.
 #### Always studying, programming from time to time and living whenever it gives. 
 ##### #Node, #Gulp, #ES6 #React #MongoDB
 ###### https://sourcerer.io/willianmendesf
