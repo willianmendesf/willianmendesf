@@ -6,7 +6,7 @@ Always studying, programming from time to time and living when I can.
 [![npm](https://img.shields.io/badge/-ES6-yellow)](#)<space><space>
 [![npm](https://img.shields.io/badge/-sass-ff69b4)](#)<space><space>
 [![npm](https://img.shields.io/badge/-node-yellowgreen)](#)<space><space>
-[![npm](https://img.shields.io/badge/-npm-red)](#)<space><space>
+[![npm](https://img.shields.io/badge/-npm-inactive)](#)<space><space>
 [![npm](https://img.shields.io/badge/-Gulp-red)](#)<space><space>
 [![npm](https://img.shields.io/badge/-React-blue)](#)<space><space>
 [![npm](https://img.shields.io/badge/-mondodb-success)](#)<space><space>
