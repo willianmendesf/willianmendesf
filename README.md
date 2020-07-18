@@ -2,16 +2,17 @@
   
 ### A passion, A Target, A Goal. "I have a dream..." - Luther King.
 Always studying, programming from time to time and living when I can.
-##### #Node #Gulp #ES6 #React #MongoDB #Webpack
 
 [![npm](https://img.shields.io/badge/-ES6-yellow)](#)<space><space>
-[![npm](https://img.shields.io/badge/-SASS-ff69b4)](#)<space><space>
-[![npm](https://img.shields.io/badge/-NODE-yellowgreen)](#)<space><space>
-[![npm](https://img.shields.io/badge/-WEBPACK-blue)](#)<space><space>
-[![npm](https://img.shields.io/badge/-NPM-green)](#)<space><space>
-[![npm](https://img.shields.io/badge/-MondoDB-success)](#)<space><space>
+[![npm](https://img.shields.io/badge/-sass-ff69b4)](#)<space><space>
+[![npm](https://img.shields.io/badge/-node-yellowgreen)](#)<space><space>
+[![npm](https://img.shields.io/badge/-npm-green)](#)<space><space>
 [![npm](https://img.shields.io/badge/-Gulp-red)](#)<space><space>
+[![npm](https://img.shields.io/badge/-React-blue)](#)<space><space>
+[![npm](https://img.shields.io/badge/-mondodb-success)](#)<space><space>
+[![npm](https://img.shields.io/badge/-webpack-blue)](#)<space><space>
 
+##### #ES6 #Node #Gulp #React #MongoDB #Webpack
 ###### https://sourcerer.io/willianmendesf
 
 </div>
