@@ -5,6 +5,14 @@ Always studying, programming from time to time and living when I can.
 ##### #Node #Gulp #ES6 #React #MongoDB #Webpack
 ###### https://sourcerer.io/willianmendesf
 
+[![npm](https://img.shields.io/badge/-ES6-yellow)](#)<space><space>
+[![npm](https://img.shields.io/badge/-SASS-ff69b4)](#)<space><space>
+[![npm](https://img.shields.io/badge/-NODE-yellowgreen)](#)<space><space>
+[![npm](https://img.shields.io/badge/-WEBPACK-blue)](#)<space><space>
+[![npm](https://img.shields.io/badge/-NPM-green)](#)<space><space>
+[![npm](https://img.shields.io/badge/-MondoDB-success)](#)<space><space>
+[![npm](https://img.shields.io/badge/-Gulp-red)](#)<space><space>
+
 </div>
 <!--
 **willianmendesf/willianmendesf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
