@@ -19,7 +19,10 @@ Always studying, programming from time to time and living when I can.
 ###### https://sourcerer.io/willianmendesf
 
 </div>
-<!--
+  
+![Snake animation](https://github.com/willianmendesf/willianmendesf/blob/output/github-contribution-grid-snake.svg)
+
+  <!--
 **willianmendesf/willianmendesf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
