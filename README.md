@@ -14,9 +14,7 @@ Always studying, programming from time to time and living when I can.
 
 ##### #ES6 #Node #Gulp #React #MongoDB #Webpack
   
-[![Willianmendesf github stats](https://github-readme-stats.vercel.app/api?username=willianmendesf&show_icons=true&count_private=true&theme=gradient&cache_seconds=1800&include_all_commits=true)](#) 
-
-###### https://sourcerer.io/willianmendesf
+<codersrank-summary username="willianmendesf"></codersrank-summary>
 
 </div>
 
