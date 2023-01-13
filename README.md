@@ -13,7 +13,8 @@ Always studying, programming from time to time and living when I can.
 [![npm](https://img.shields.io/badge/-webpack-blue)](#)<space><space>
 
 ##### #ES6 #Node #Gulp #React #MongoDB #Webpack
-  
+ 
+[![npm](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=willianmendesf)]
 <codersrank-summary username="willianmendesf"></codersrank-summary>
 
 </div>
